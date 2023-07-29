@@ -18,8 +18,9 @@ export default defineConfig({
   },
   globalCss: {
     'html, body': {
-      color: 'text.main',
-      backgroundColor: 'bg.main',
+      color: 'blackish',
+      // backgroundColor: 'bg.main',
+      backgroundColor: 'white',
     },
   },
 
